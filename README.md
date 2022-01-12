@@ -11,6 +11,8 @@
 
   
 ## 기능
+![image](https://user-images.githubusercontent.com/74815957/149141506-40759b92-af47-4131-9ba7-e2027e17a430.png)
+
 - 옷 등록 및 코디 조합
 - 회원가입, 로그인
 - 이진분류를 통한 스타일 평가
