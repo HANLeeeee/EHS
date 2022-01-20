@@ -38,7 +38,7 @@
   - AWS EC2(Ubuntu Server)
   - Nginx
 ### IDE
-  - Andorid Studio
+  - Android Studio
   - Pycharm
   - Sublime Text
 ### Language
